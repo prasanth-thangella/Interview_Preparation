@@ -1,0 +1,1 @@
+{"uuid":"63c50f9d-fb0a-44ab-8d4c-b94508f09787","name":"Command line suite","children":["7587e0c3-6aba-4592-9c6f-b59a2c83ddd7"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1770618433810,"stop":1770618434077}],"afters":[],"start":1770618433795,"stop":1770618437758}

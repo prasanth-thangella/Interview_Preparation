@@ -1,0 +1,7 @@
+com\automation\utils\ConfigManager$FrameworkConfig.class
+com\automation\core\RestResource.class
+com\automation\pojo\Post$PostBuilder.class
+com\automation\reporting\SetupListener.class
+com\automation\utils\ConfigManager.class
+com\automation\pojo\Post.class
+com\automation\reporting\ExtentManager.class
